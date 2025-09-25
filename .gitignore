@@ -1,0 +1,10 @@
+# Ignore large data and DB files, but allow PDFs for Medical RAG
+chroma_db/
+chroma_db_test_verify/
+archive/
+logs/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
